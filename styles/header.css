@@ -153,6 +153,7 @@ main {
 
     .container__texto {
         display: block;
+        margin-bottom: 0rem;
     }
 
 }
