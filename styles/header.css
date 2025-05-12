@@ -105,6 +105,7 @@ main {
 
     .opcoes {
         display: flex;
+        margin-bottom: 0rem;
     }
 
     .opcoes__item{
@@ -112,7 +113,6 @@ main {
         padding: 0 2em;
         text-transform: uppercase;
         color: var(--branco);
-        margin-bottom: 0rem;
     }
 
     .opcoes__link{
