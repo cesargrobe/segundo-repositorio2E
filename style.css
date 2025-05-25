@@ -42,8 +42,7 @@
     display: none;
 }
 
-.alto-contraste,
-.alto-contraste footer {
+.alto-contraste {
     background-color: var(--cor-preto);
     color: var(--cor-branco);
 }
@@ -58,6 +57,7 @@
     color: var(--cor-secundaria);
 }
 
+.alto-contraste footer,
 .alto-contraste .botao-inicio,
 .alto-contraste .formulario button,
 .alto-contraste .btn-primary {
