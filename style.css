@@ -63,8 +63,7 @@
 
 .alto-contraste footer,
 .alto-contraste .botao-inicio,
-.alto-contraste .formulario button,
-.alto-contraste .btn-primary {
+.alto-contraste .formulario button {
     background-color: var(--cor-secundaria);
     color: var(--cor-preto);
 }
