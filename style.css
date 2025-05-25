@@ -48,12 +48,12 @@
 }
 
 .alto-contraste header,
-.alto-contraste footer,
 .alto-contraste .formulario {
     background-color: var(--cor-preto);
     color: var(--cor-branco);
 }
 
+.alto-contraste footer,
 .alto-contraste .nav-link {
     color: var(--cor-secundaria);
 }
