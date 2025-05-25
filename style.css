@@ -15,11 +15,6 @@
     --cor-branco: #ffffff;
 }
 
-body {
-    font-size: 1rem;
-}
-
-
 .menu-acessibilidade{
     position: fixed;
     top:3rem;
