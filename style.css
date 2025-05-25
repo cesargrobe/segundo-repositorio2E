@@ -57,6 +57,10 @@
     color: var(--cor-secundaria);
 }
 
+.carrossel-titulo h2 {
+    color: var(--cor-branco);
+}
+
 .alto-contraste footer,
 .alto-contraste .botao-inicio,
 .alto-contraste .formulario button,
