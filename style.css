@@ -55,13 +55,13 @@
 }
 
 .alto-contraste .nav-link {
-    color: var(--cor-laranja);
+    color: var(--cor-secundaria);
 }
 
 .alto-contraste .botao-inicio,
 .alto-contraste .formulario button,
 .alto-contraste .btn-primary {
-    background-color: var(--cor-laranja);
+    background-color: var(--cor-secundaria);
     color: var(--cor-preto);
 }
 
