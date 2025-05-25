@@ -42,7 +42,8 @@
     display: none;
 }
 
-.alto-contraste {
+.alto-contraste,
+.alto-contraste footer {
     background-color: var(--cor-preto);
     color: var(--cor-branco);
 }
@@ -53,7 +54,6 @@
     color: var(--cor-branco);
 }
 
-.alto-contraste footer,
 .alto-contraste .nav-link {
     color: var(--cor-secundaria);
 }
