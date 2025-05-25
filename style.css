@@ -43,26 +43,26 @@
 }
 
 .alto-contraste {
-    background-color: var(--preto);
-    color: var(--branco);
+    background-color: var(--cor-preto);
+    color: var(--cor-branco);
 }
 
 .alto-contraste header,
 .alto-contraste footer,
 .alto-contraste .formulario {
-    background-color: var(--preto);
-    color: var(--branco);
+    background-color: var(--cor-preto);
+    color: var(--cor-branco);
 }
 
 .alto-contraste .nav-link {
-    color: var(--laranja-claro);
+    color: var(--cor-laranja);
 }
 
 .alto-contraste .botao-inicio,
 .alto-contraste .formulario button,
 .alto-contraste .btn-primary {
-    background-color: var(--laranja-claro);
-    color: var(--preto);
+    background-color: var(--cor-laranja);
+    color: var(--cor-preto);
 }
 
 .alto-contraste #escola {
@@ -70,5 +70,5 @@
 }
 
 .alto-contraste #galeria {
-    background-color: var(--preto);
+    background-color: var(--cor-preto);
 }
