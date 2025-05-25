@@ -68,6 +68,11 @@
     color: var(--cor-preto);
 }
 
+.alto-contraste .btn-primary {
+    background-color: var(--cor-secundaria);
+    color: var(--cor-branco);
+}
+
 .alto-contraste #escola {
     background: none;
 }
